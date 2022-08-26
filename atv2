@@ -1,7 +1,7 @@
 public class prova2 {
     public static void main(String[] args) {
         double salario = 1000;
-        int ano = 1995;
+        int ano = 1996;
         int atual = 2022;
         int diferenca = atual-ano;
         double percentual = 1.5;
